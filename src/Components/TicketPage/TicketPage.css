@@ -1,0 +1,32 @@
+.destination{
+    background-color: lightgray;
+    padding: 5px 5px 5px 20px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.destination h5{
+    background-color: lightsalmon;
+    padding: 5px;
+    margin: 5px 5px 5px 0;
+    border-radius: 5px;
+}
+
+.ticket{
+    display: flex;
+    background-color: lightgray;
+    border-radius: 10px;
+    margin: 10px;
+    margin-top: 30px;
+    align-items: center;
+    padding: 5px;
+    
+}
+
+.ticket img{
+    width: 40px;
+}
+
+.peopleIcon{
+    display: flex;
+}
